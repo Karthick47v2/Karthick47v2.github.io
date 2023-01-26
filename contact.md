@@ -3,24 +3,15 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+- Email: [karthicksharma11@gmail.com](mailto:karthicksharma11@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+- LinkedIn: [Karthick47](https://www.linkedin.com/in/karthick47/)
 
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+- Github: [Karthick47v2](https://github.com/Karthick47v2)
 
 ---
 
-## Social
+<!-- ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Facebook](https://www.facebook.com/profile.php?id=100002497954261)
+2. [Telegram](https://t.me/Ahmed_Alii7) -->
