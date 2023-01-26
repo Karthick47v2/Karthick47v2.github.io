@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
- <img class="profile-picture" src="profile.jpg" width="260px" height="300px">
+ <img class="profile-picture" src="profile.jpeg" width="260px" height="300px">
 
 Hi! I am Karthick 4th year Computer Engineering Undergraduate at University of Sri Jayewardenepura. SITE IS NOT COMPLETE YETTTTTTTTTTTT.
 
