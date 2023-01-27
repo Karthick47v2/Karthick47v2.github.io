@@ -2,23 +2,21 @@
 layout: default
 ---
 
-## Computer Vision Projects:
+## Projects
 
-<!-- * [Comparative Analysis between YOLO complex 3 and YOLO 3](https://github.com/Ahmed-Mohsen-7/YOLO-Comparative-Analysis)
+- [Mock-Buddy](https://github.com/Karthick47v2/mock-buddy), a web application that utilizes computer vision and deep learning to help users overcome stage fear and improve public speaking and presentation skills with real-time feedback.
+- [Quizzzy](https://github.com/Karthick47v2/quizzzy), a mobile application that uses Transformers to automatically generate multiple choice questions from context of textbooks, providing a fast and efficient way for students and teachers to self-evaluate and assess understanding.
+- [trAIner](https://github.com/Karthick47v2/trAIner), a mobile application that uses pose estimation to monitor user's activity during workout and provide real-time feedback on the correct form and technique.
 
-* [Human Iris Detection using convolution Neural Network (CNN)](https://github.com/Ahmed-Mohsen-7/Human-Iris-Detection) -->
+- [hard-hat-detection](https://github.com/Karthick47v2/hard-hat-detection), ----
 
-## Natural Language Processing Projects:
+## Other Opensource Contributions
 
-<!--
-* [Applying Incremental Convex Free Space to Optimization Based Motion Planners](https://github.com/Ahmed-Mohsen-7/faster)
+---
 
-* [Static Stability For a Walking Robot Using Optimization Techniques](https://github.com/Ahmed-Mohsen-7/Static-Stability-for-a-walking-robot)
-
-* [Design And Control Of Swarm Of Autonomous Mobile Industrial Robots (Bachelor Thesis)](https://github.com/Ahmed-Mohsen-7/Design-And-Control-Of-Swarm-Of-Autonomous-Mobile-Industrial-Robots)
-
-* [Virtual Joint Matrix (VJM) Analysis for 7DOF KUKA kr-210 r-2700 on Linear Axis](https://github.com/Ahmed-Mohsen-7/VJM-Analysis-for-7DOF-Kuka-on-Linear-Axis) -->
-
-## Other projects:
-
-<!-- * [Electric Car Performance Analysis Using Simulink](https://github.com/Ahmed-Mohsen-7/Car-Performance-Analysis-using-Simulink) -->
+| Repo                                                     | Keywords                                            | PR #                                                                                                                                                 |
+| -------------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [ivy](https://github.com/unifyai/ivy)                    | Python - Tensorflow - MXNet - PyTorch - Jax - Numpy | [7439](https://github.com/unifyai/ivy/pull/7439), [7514](https://github.com/unifyai/ivy/pull/7514), [7764](https://github.com/unifyai/ivy/pull/7764) |
+| [docus](https://github.com/Breta01/docus)                | Java - Android - Computer Vision                    | [30](https://github.com/Breta01/docus/pull/30)                                                                                                       |
+| [github-raven](https://github.com/brleinad/github-raven) | Python - Slack - GitHub Integration                 | [7](https://github.com/brleinad/github-raven/pull/7)                                                                                                 |
+| [quich](https://github.com/Usbac/quich)                  | C - CLI                                             | [15](https://github.com/Usbac/quich/pull/15)                                                                                                         |
