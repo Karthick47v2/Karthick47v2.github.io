@@ -10,8 +10,3 @@ is_contact: true
 - Github: [Karthick47v2](https://github.com/Karthick47v2)
 
 ---
-
-<!-- ## Social
-
-1. [Facebook](https://www.facebook.com/profile.php?id=100002497954261)
-2. [Telegram](https://t.me/Ahmed_Alii7) -->
