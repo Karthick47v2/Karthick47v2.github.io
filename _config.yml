@@ -3,13 +3,13 @@ url: "https://karthick47v2.github.io/"
 baseurl: "/"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer: no
+
+favicon: yes
+favicon_location: favicon.ico
 
 sass:
   style: compressed
