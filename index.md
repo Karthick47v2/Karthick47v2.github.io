@@ -7,7 +7,7 @@ title: Karthick T. Sharma
 
 ---
 
- <img class="profile-picture" src="profile.jpeg" height="300px">
+ <img class="profile-picture" src="profile.jpeg">
 
 Hi! I am Karthick 4th year Computer Engineering Undergraduate at University of Sri Jayewardenepura. SITE IS NOT COMPLETE YETTTTTTTTTTTT.
 
