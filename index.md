@@ -19,14 +19,13 @@ Hi! I am Karthick 4th year Computer Engineering Undergraduate at University of S
 _B.Sc. in Computer Engineering (Hons), Minor in High Performance Computing_ <br>
 Honors: _summa cum laude_ (CGPA 3.97/4.00)
 
-<!-- ## Work Experience
+## Work Experience
 
 ---
 
 **[SUTD](https://www.sutd.edu.sg/)** | Singapore (Feb 2023 - Present)
 _Visiting Research Student_
 
-- FILLLLLL -->
 <!-- ## Research Interest
 
 My research interest includes but are not limited to: <br/>
