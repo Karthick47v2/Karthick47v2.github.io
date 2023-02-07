@@ -23,7 +23,7 @@ Honors: _summa cum laude_ (CGPA 3.97/4.00)
 
 ---
 
-**[SUTD](https://www.sutd.edu.sg/)** | Singapore (Feb 2023 - Present)
+**[SUTD](https://www.sutd.edu.sg/)** | Singapore (Feb 2023 - Present) <br>
 _Visiting Research Student_
 
 <!-- ## Research Interest
