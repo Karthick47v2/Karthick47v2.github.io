@@ -9,7 +9,11 @@ title: Karthick T. Sharma
 
  <img class="profile-picture" src="profile.jpeg">
 
-Hi! I am Karthick 4th year Computer Engineering Undergraduate at University of Sri Jayewardenepura. SITE IS NOT COMPLETE YETTTTTTTTTTTT.
+Hi! I'm Karthick, Computer Engineering Undergrad at USJP. I'm not just an AI enthusiast, an AI wizard who can make, even the most boring algorithms seem like a thrilling adventure.
+
+As a gamer, I bring a unique perspective and much-needed touch of levity to the world of AI. Keen eye for detail, ability to think critically and solve problems quickly, skills that translate well to both gaming world and the world of AI. Whether battling it out in a virtual arena or working on next big AI project, always driven and dedicated to excellence.
+
+I've got solid understanding of Deep Learning, Natural Language Processing and Computer Vision, and I ain't afraid to get my hands dirty. I love to challenge myself, push the limits, and keep learning.
 
 ## Education
 
@@ -23,7 +27,7 @@ Honors: _summa cum laude_ (CGPA 3.97/4.00)
 
 ---
 
-**[SUTD](https://www.sutd.edu.sg/)** | Singapore (Feb 2023 - Present) <br>
+**[Singapore University of Technology & Design (SUTD)](https://www.sutd.edu.sg/)** | Singapore (Feb 2023 - Present) <br>
 _Visiting Research Student_
 
 <!-- ## Research Interest
