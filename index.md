@@ -15,9 +15,13 @@ Hi! I'm Karthick, Computer Engineering Undergrad at USJP. I'm not just an AI ent
 
 </div>
 
+<br>
+
 <div style="text-align: justify">
 As a gamer, I bring a unique perspective and much-needed touch of levity to the world of AI. Keen eye for detail, ability to think critically and solve problems quickly, skills that translate well to both gaming world and the world of AI. Whether battling it out in a virtual arena or working on next big AI project, always driven and dedicated to excellence.
 </div>
+
+<br>
 
 <div style="text-align: justify">
 I've got solid understanding of Deep Learning, Natural Language Processing and Computer Vision, and I ain't afraid to get my hands dirty. I love to challenge myself, push the limits, and keep learning.
