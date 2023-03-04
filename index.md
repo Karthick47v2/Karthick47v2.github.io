@@ -10,17 +10,21 @@ title: Karthick T. Sharma
  <img class="profile-picture" src="profile.jpeg">
 
 <div style="text-align: justify">
-
+<p>
 Hi! I'm Karthick, Computer Engineering Undergrad at USJP. I'm not just an AI enthusiast, an AI wizard who can make, even the most boring algorithms seem like a thrilling adventure.
-
+<p>
 </div>
 
 <div style="text-align: justify">
+<p>
 As a gamer, I bring a unique perspective and much-needed touch of levity to the world of AI. Keen eye for detail, ability to think critically and solve problems quickly, skills that translate well to both gaming world and the world of AI. Whether battling it out in a virtual arena or working on next big AI project, always driven and dedicated to excellence.
+<p>
 </div>
 
 <div style="text-align: justify">
+<p>
 I've got solid understanding of Deep Learning, Natural Language Processing and Computer Vision, and I ain't afraid to get my hands dirty. I love to challenge myself, push the limits, and keep learning.
+<p>
 </div>
 
 ## Education
