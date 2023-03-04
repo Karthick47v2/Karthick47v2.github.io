@@ -24,7 +24,5 @@ nav:
     link: "projects"
   - name: "Services"
     link: "services"
-  - name: "Blog"
-    link: "blog"
   - name: "Contact"
     link: "contact"
