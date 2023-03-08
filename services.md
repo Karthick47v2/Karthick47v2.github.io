@@ -3,11 +3,11 @@ layout: default
 title: Services
 ---
 
-I am passionate about using data to drive business decisions and solve complex problems. I offer freelance data science services to clients looking for expert guidance and support in their own projects. I am always eager to stay up-to-date on the latest industry trends and apply my skills to new and challenging projects.
+I have a strong passion for leveraging data to drive business decisions and tackle complex problems. As a freelance data scientist, I offer expert guidance and support to clients seeking assistance with their own projects. I am committed to staying up-to-date with the latest industry trends and using my skills to take on new and challenging projects. I am dedicated to delivering high-quality results and helping my clients achieve their goals.
 
 ## Upwork
 
-I am offering my services on Upwork. Consider me for any upcoming data science related opportunities you may have. Follow this link to access my Upwork [profile](https://www.upwork.com/freelancers/~0175f9f6e6fd768e2f).
+I am offering my services on Upwork. I am equipped to provide expert guidance and support to clients who require data-driven solutions to complex problems. Follow this link to access my Upwork [profile](https://www.upwork.com/freelancers/~0175f9f6e6fd768e2f).
 
 ### Past Works
 
@@ -21,7 +21,7 @@ I am offering my services on Upwork. Consider me for any upcoming data science r
 
 ## Other
 
-I also offer my services directly. For direct inquiries or to discuss potential opportunities further, please do not hesitate to contact me via the email provided.
+In addition to offering my data science services on Upwork, I am also available for direct inquiries and discussions regarding potential opportunities. You can reach me via email, which I have provided in `Contact` section. I am always open to exploring new and challenging projects, so please don't hesitate to get in touch.
 
 ### Past Works
 
