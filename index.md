@@ -10,15 +10,23 @@ title: Karthick T. Sharma
  <img class="profile-picture" src="profile.jpeg">
 
 <p style="text-align: justify">
-Hi! I'm Karthick, Computer Engineering Undergrad at USJP. I'm not just an AI enthusiast, an AI wizard who can make, even the most boring algorithms seem like a thrilling adventure.
+Hi there! I'm is Karthick, Computer Engineering Undergrad at USJP. As an AI enthusiast, I'm constantly amazed by the endless possibilities that AI can bring to the table, and I love being able to use my skills to create exciting and innovative projects.
 </p>
 
 <p style="text-align: justify">
-As a gamer, I bring a unique perspective and much-needed touch of levity to the world of AI. Keen eye for detail, ability to think critically and solve problems quickly, skills that translate well to both gaming world and the world of AI. Whether battling it out in a virtual arena or working on next big AI project, always driven and dedicated to excellence.
+As a gamer, I bring a unique perspective and much-needed touch of levity to the world of AI. With a keen eye for detail and talent for problem-solving, I'm always up for challenge and pushing my limits. Whether I'm battling it out in virtual arena or working on the next big AI project, I'm dedicated to excellence and always striving to improve.
 </p>
 
 <p style="text-align: justify">
-I've got solid understanding of Deep Learning, Natural Language Processing and Computer Vision, and I ain't afraid to get my hands dirty. I love to challenge myself, push the limits, and keep learning.
+My passion lies in Deep Learning, Natural Language Processing, and Computer Vision, and I'm always looking for ways to expand my knowledge in these areas. By staying up-to-date with the latest trends and techniques, I'm able to bring a fresh perspective and cutting-edge solutions to my work.
+</p>
+
+<p style="text-align: justify">
+When I'm not knee-deep in code, you can usually find me playing my favorite games or tinkering with new hardware. I believe that a bit of levity and fun can go a long way, both in the gaming world and in the world of AI.
+ </p>
+
+<p style="text-align: justify">
+Thanks for stopping by, and I hope you enjoy exploring my website!
 </p>
 
 ## Education
@@ -34,7 +42,9 @@ Honors: _summa cum laude_ (CGPA 3.97/4.00)
 ---
 
 **[Singapore University of Technology & Design (SUTD)](https://www.sutd.edu.sg/)** | Singapore (Feb 2023 - Present) <br>
-_Visiting Research Student_
+_Visiting Research Student_ <br>
+
+I am currently part of [IntelliStream](https://intellistream.github.io/) team, a young and dynamic research group based at SUTD in ISTD Pillar. Our research goal is to optimize and utilize distributed and parallel stream processing technology to better support existing and emerging big data applications. As a member of Intellistream team, I'm excited to be a part of this cutting-edge research community and look forward to contributing my skills and expertise to help achieve the research goals.
 
 <!-- ## Research Interest
 
