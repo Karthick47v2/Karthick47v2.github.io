@@ -10,15 +10,15 @@ title: Karthick T. Sharma
  <img class="profile-picture" src="profile.jpeg">
 
 <p style="text-align: justify">
-Hi there! I'm is Karthick, Computer Engineering Undergrad at USJP. As an AI enthusiast, I'm constantly amazed by the endless possibilities that AI can bring to the table, and I love being able to use my skills to create exciting and innovative projects.
+Hi there! I'm Karthick, Computer Engineering Undergrad at USJP. As an AI enthusiast, I'm constantly amazed by the endless possibilities that AI can bring to the table, and I love being able to use my skills to create exciting and innovative solutions to real world problems. 
 </p>
 
 <p style="text-align: justify">
-As a gamer, I bring a unique perspective and much-needed touch of levity to the world of AI. With a keen eye for detail and talent for problem-solving, I'm always up for challenge and pushing my limits. Whether I'm battling it out in virtual arena or working on the next big AI project, I'm dedicated to excellence and always striving to improve.
+As a gamer, I bring a unique perspective and much-needed touch of levity to the world of AI. With a keen eye for detail and talent for problem-solving, I'm always up for challenge and pushing my limits. Whether I'm battling it out in a virtual arena or working on the next big AI project, I'm dedicated to excellence and always striving to improve.
 </p>
 
 <p style="text-align: justify">
-My passion lies in Deep Learning, Natural Language Processing, and Computer Vision, and I'm always looking for ways to expand my knowledge in these areas. By staying up-to-date with the latest trends and techniques, I'm able to bring a fresh perspective and cutting-edge solutions to my work.
+My passion lies in Deep Learning, Natural Language Processing and Computer Vision, and I'm always looking for ways to expand my knowledge in these areas. By staying up-to-date with the latest trends and techniques, I'm able to bring a fresh perspective and cutting-edge solutions to my work
 </p>
 
 <p style="text-align: justify">
@@ -44,7 +44,7 @@ Honors: _summa cum laude_ (CGPA 3.97/4.00)
 **[Singapore University of Technology & Design (SUTD)](https://www.sutd.edu.sg/)** | Singapore (Feb 2023 - Present) <br>
 _Visiting Research Student_ <br>
 
-I am currently part of [IntelliStream](https://intellistream.github.io/) team, a young and dynamic research group based at SUTD in ISTD Pillar. Our research goal is to optimize and utilize distributed and parallel stream processing technology to better support existing and emerging big data applications. As a member of Intellistream team, I'm excited to be a part of this cutting-edge research community and look forward to contributing my skills and expertise to help achieve the research goals.
+I am currently part of [IntelliStream](https://intellistream.github.io/) team, a young and dynamic research group based at SUTD in ISTD Pillar. Our research goal is to optimize and utilize distributed and parallel stream processing technology to better support existing and emerging big data applications. As a member of IntelliStream team, I'm excited to be a part of this cutting-edge research community and look forward to contributing my skills and expertise to help achieve the research goals.
 
 <!-- ## Research Interest
 
