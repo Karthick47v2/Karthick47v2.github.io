@@ -23,4 +23,4 @@ trAIner leverages machine learning to provide personalized fitness guidance and 
 
 ---
 
-*More details coming soon.*
+_More details coming soon._

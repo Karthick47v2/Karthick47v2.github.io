@@ -23,4 +23,4 @@ Quizzzy uses natural language processing and machine learning to generate intell
 
 ---
 
-*More details coming soon.*
+_More details coming soon._

@@ -100,33 +100,15 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": [
-        "Python",
-        "C++",
-        "C#",
-        "JavaScript"
-      ]
+      "keywords": ["Python", "C++", "C#", "JavaScript"]
     },
     {
       "name": "ML Frameworks",
-      "keywords": [
-        "PyTorch",
-        "TensorFlow",
-        "Scikit-learn",
-        "LangChain"
-      ]
+      "keywords": ["PyTorch", "TensorFlow", "Scikit-learn", "LangChain"]
     },
     {
       "name": "Cloud & DevOps",
-      "keywords": [
-        "Flask",
-        "FastAPI",
-        "Azure",
-        "GCP",
-        "AWS",
-        "GitHub Actions",
-        "Docker"
-      ]
+      "keywords": ["Flask", "FastAPI", "Azure", "GCP", "AWS", "GitHub Actions", "Docker"]
     }
   ],
   "languages": [],

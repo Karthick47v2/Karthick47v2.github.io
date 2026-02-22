@@ -60,4 +60,4 @@ Interested in working together? Feel free to reach out via [email](mailto:karthi
 
 ---
 
-*This page will be updated with more detailed project descriptions.*
+_This page will be updated with more detailed project descriptions._

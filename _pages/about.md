@@ -33,6 +33,6 @@ I still play. Always have. I'd rather explore the whole map than rush the main q
 
 > **கற்றது கைமண் அளவு கல்லாதது உலகளவு**
 >
-> *What we have learned is a handful of sand; what we have not learned is as vast as the world.*
+> _What we have learned is a handful of sand; what we have not learned is as vast as the world._
 >
 > — Avvaiyar
