@@ -1,18 +1,9 @@
 {
   "basics": {
     "name": "Karthick T. Sharma",
-    "label": "ML Research Engineer",
     "image": "",
     "email": "karthicksharma11@gmail.com",
-    "phone": "",
     "summary": "",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Brisbane",
-      "countryCode": "AU",
-      "region": "Queensland"
-    },
     "profiles": [
       {
         "network": "GitHub",
@@ -58,9 +49,7 @@
   "education": [
     {
       "institution": "Queensland University of Technology (QUT)",
-      "location": "Brisbane, Australia",
-      "url": "https://www.qut.edu.au/",
-      "area": "Healthcare AI / Computer Science",
+      "location": "Australia",
       "studyType": "MPhil",
       "startDate": "2026-01-01",
       "endDate": "2028-01-01",
@@ -69,10 +58,8 @@
       "highlights": []
     },
     {
-      "institution": "University of Sri Jayewardenepura",
+      "institution": "University of Sri Jayewardenepura (USJ)",
       "location": "Sri Lanka",
-      "url": "",
-      "area": "Computer Engineering",
       "studyType": "BS",
       "startDate": "2019-01-01",
       "endDate": "2024-01-01",
@@ -85,14 +72,12 @@
     {
       "title": "ANZCORS Group Scholarship",
       "date": "2026-01-01",
-      "awarder": "Australia and New Zealand Congenital Outcomes Registry for Surgery (ANZCORS)",
-      "summary": "MPhil Research Scholarship"
+      "awarder": "Australia and New Zealand Congenital Outcomes Registry for Surgery (ANZCORS)"
     },
     {
       "title": "Pranama Scholarship",
       "date": "2019-01-01",
-      "awarder": "Ceylinco Life",
-      "summary": "Awarded for outstanding performance in GCE A/L examinations"
+      "awarder": "Ceylinco Life"
     }
   ],
   "certificates": [],
