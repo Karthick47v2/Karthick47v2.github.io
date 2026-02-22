@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 cv_pdf: # Add your CV PDF link here when available
 cv_format: jsonresume
-description: My curriculum vitae with work experience, education, skills, and awards.
+description:
 toc:
   sidebar: left
 ---

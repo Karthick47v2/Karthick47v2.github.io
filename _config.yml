@@ -15,7 +15,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: machine learning, healthcare AI, research engineer, NLP, medical AI, portfolio
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🐱 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://karthick47v2.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -57,7 +57,7 @@ footer_fixed: true
 search_enabled: false
 socials_in_search: true
 posts_in_search: true
-bib_search: true
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -650,12 +650,5 @@ jsonresume:
   - basics
   - work
   - education
-  - publications
-  - projects
-  - volunteer
   - awards
-  - certificates
   - skills
-  - languages
-  - interests
-  - references

@@ -35,11 +35,14 @@ HDR Student @ QUT
 (2-4 paragraphs about yourself - who you are, what you do, your interests)
 
 ```
-I am a Machine Learning Research Engineer and incoming MPhil student at Queensland University of Technology (QUT), where I will focus on Healthcare AI research. My work sits at the intersection of machine learning, natural language processing, and real-world healthcare applications.
+It all started with a computer and a game I could barely understand. I was four. Curiosity did the rest.
 
-Previously, I completed my Bachelor's in Computer Engineering from the University of Sri Jayewardenepura. I have had the opportunity to work with research groups at Nanyang Technological University (NTU) and Singapore University of Technology and Design (SUTD), contributing to projects in online learning systems, data streams, and biomedical imaging.
+Now I research AI in healthcare, trying to build systems that help doctors when the stakes are highest.
 
-My research interests include developing AI systems for clinical decision support, medical diagnostics, and knowledge distillation techniques. I am passionate about building practical, scalable solutions that can make a meaningful impact in healthcare settings.
+I still play. Always have. I'd rather explore the whole map than rush the main quest. Same with books. Philosophy, the nature of consciousness, what existence actually is, who is doing the experiencing. I've never found satisfying answers. I keep looking anyway. I also love cats. Unlike AI, they understand your instructions perfectly. They just don't care.
+
+கற்றது கைமண் அளவு கல்லாதது உலகளவு
+What we have learned is a handful of sand; what we have not learned is as vast as the world.
 ```
 
 ### Contact Address (optional)

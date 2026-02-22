@@ -5,7 +5,7 @@
     "image": "",
     "email": "karthicksharma11@gmail.com",
     "phone": "",
-    "summary": "Machine Learning Research Engineer and incoming MPhil student at Queensland University of Technology (QUT), focusing on Healthcare AI research.",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
@@ -100,8 +100,6 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "level": "",
-      "icon": "fa-solid fa-code",
       "keywords": [
         "Python",
         "C++",
@@ -111,8 +109,6 @@
     },
     {
       "name": "ML Frameworks",
-      "level": "",
-      "icon": "fa-solid fa-brain",
       "keywords": [
         "PyTorch",
         "TensorFlow",
@@ -122,8 +118,6 @@
     },
     {
       "name": "Cloud & DevOps",
-      "level": "",
-      "icon": "fa-solid fa-cloud",
       "keywords": [
         "Flask",
         "FastAPI",
@@ -136,25 +130,7 @@
     }
   ],
   "languages": [],
-  "interests": [
-    {
-      "name": "Research Interests",
-      "icon": "fa-solid fa-flask",
-      "keywords": [
-        "Clinical Decision Support Systems",
-        "Medical Image Analysis & Diagnostics",
-        "Knowledge Distillation for Healthcare Models"
-      ]
-    },
-    {
-      "name": "Hobbies",
-      "icon": "fa-solid fa-gamepad",
-      "keywords": [
-        "Reading",
-        "Gaming"
-      ]
-    }
-  ],
+  "interests": [],
   "references": [],
   "projects": []
 }
