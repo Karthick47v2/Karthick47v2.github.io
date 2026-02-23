@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: My portfolio of machine learning and AI projects.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [machine learning]
 horizontal: false
