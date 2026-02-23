@@ -33,24 +33,26 @@ description:
   }
 </style>
 
-<div class="text-center mb-4">
-  <button id="btn-academic" class="btn btn-theme-active mr-2" onclick="setCV('academic')">Academic CV</button>
-  <button id="btn-industry" class="btn btn-theme-inactive" onclick="setCV('industry')">Industry Resume</button>
+<div class="d-flex justify-content-between align-items-center mb-4">
+  <div>
+    <button id="btn-academic" class="btn btn-theme-active mr-2" onclick="setCV('academic')">Academic CV</button>
+    <button id="btn-industry" class="btn btn-theme-inactive" onclick="setCV('industry')">Industry Resume</button>
+  </div>
+  <div>
+    <a id="btn-download" href="{{ '/assets/pdf/academic_cv.pdf' | relative_url }}" class="btn btn-outline-primary" target="_blank" download>
+      <i class="fas fa-file-download mr-1"></i> Download PDF
+    </a>
+  </div>
 </div>
 
-<div class="cv-container" style="height: 100vh; width: 100%; border: 1px solid var(--global-divider-color, #ccc); border-radius: 5px;">
-  <object id="cv-object" data="{{ '/assets/pdf/academic_cv.pdf' | relative_url }}" type="application/pdf" width="100%" height="100%">
-    <div class="p-5 text-center">
-      <p>It appears your browser has trouble rendering the PDF directly.</p>
-      <a id="cv-fallback-link" href="{{ '/assets/pdf/academic_cv.pdf' | relative_url }}" class="btn btn-theme-active" target="_blank">Download PDF to view</a>
-    </div>
-  </object>
+<div class="cv-container" style="height: 100vh; width: 100%; border: 1px solid var(--global-divider-color, #ccc); border-radius: 5px; overflow: hidden;">
+  <iframe id="cv-iframe" src="{{ '/assets/pdf/academic_cv.pdf' | relative_url }}#toolbar=0" style="width: 100%; height: 100%; border: none;"></iframe>
 </div>
 
 <script>
   function setCV(type) {
-    const obj = document.getElementById('cv-object');
-    const fallbackLink = document.getElementById('cv-fallback-link');
+    const iframe = document.getElementById('cv-iframe');
+    const downloadBtn = document.getElementById('btn-download');
     const btnAcademic = document.getElementById('btn-academic');
     const btnIndustry = document.getElementById('btn-industry');
     
@@ -65,10 +67,10 @@ description:
       btnAcademic.className = "btn btn-theme-inactive mr-2";
     }
     
-    // Update the object data and the fallback link
-    obj.data = pdfPath;
-    if (fallbackLink) {
-      fallbackLink.href = pdfPath;
+    // Update iframe and download link
+    iframe.src = pdfPath + "#toolbar=0";
+    if (downloadBtn) {
+      downloadBtn.href = pdfPath;
     }
   }
 </script>
