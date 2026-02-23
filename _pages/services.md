@@ -2,7 +2,7 @@
 layout: page
 title: services
 permalink: /services/
-description: Freelance work and consulting services
+description:
 nav: true
 nav_order: 6
 ---
