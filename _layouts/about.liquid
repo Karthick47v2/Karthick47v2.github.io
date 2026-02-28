@@ -72,7 +72,8 @@ layout: default
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
       {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
-      {% include newsletter.liquid center=true %}
+        {% include newsletter.liquid center=true %}
+      {% endif %}
     {% endif %}
   </article>
 </div>
