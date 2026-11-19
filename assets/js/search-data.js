@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/work/";
           },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
         },{id: "nav-resume",
           title: "resume",
           description: "",
@@ -30,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{
+        },{id: "post-same-number-different-emergency-why-children-aren-39-t-small-adults",
+        
+          title: "Same number, different emergency: why children aren&#39;t small adults",
+        
+        description: "A heart rate of 150 is ordinary for a baby and alarming for an adult. Why every clinical number needs its owner&#39;s age, and what that means for the models you build.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/children-arent-small-adults/";
+          
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
