@@ -27,7 +27,7 @@ I'm a machine learning engineer in healthcare. I like owning a model from raw da
 
 At Neuralgap I deployed a TensorRT-optimised 3D CNN-Transformer for cardiac video that runs 140× faster than the legacy system, and built multimodal PyTorch models and Flask APIs for a clinical decision support platform. Earlier, at NTU, I deployed a semi-supervised anomaly detector at a steel manufacturer, and at SUTD I built a streaming sentiment system on Flink and Kafka.
 
-My first-author papers are in the International Journal of Medical Informatics and Applied Soft Computing (both Q1) and at ISBI. I've also co-authored papers at two CORE A* conferences, EMNLP and ICDE.
+My first-author papers are in the International Journal of Medical Informatics and Applied Soft Computing (both Q1) and at ISBI. I've also co-authored papers at two CORE A\* conferences, EMNLP and ICDE.
 
 I'm doing an MPhil at QUT on predicting outcomes after children's heart surgery, and I'm looking for a full-time ML engineering role. I'm based in Brisbane with full work rights in Australia.
 
