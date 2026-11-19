@@ -1,65 +1,24 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: My portfolio of machine learning and AI projects.
-nav: false
+title: work
+permalink: /work/
+description:
+nav: true
 nav_order: 3
-display_categories: [machine learning]
-horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+Two systems I built at Neuralgap. Details are limited to what I can share.
 
-{% else %}
+## Automated binding analysis for a drug discovery platform
 
-<!-- Display projects without categories -->
+Docking and structure-prediction models such as DiffDock, AutoDock Vina and Boltz return many poses for a single target, ranked by a score that is often wrong. Deciding which pose is worth taking forward is manual work: open each result, look at the bonds it forms, check for clashes, and write the findings up.
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+I built the model behind this analysis, the interpretability agents around it, and the pipeline that runs them. For every pose returned, the system characterises the interaction, counts the contacts, flags steric clashes, and produces a written report, so a chemist compares candidates instead of inspecting them one by one. It ships as part of a platform used by cheminformaticians and university research labs.
 
-  <!-- Generate cards for each project -->
+**My part:** the model, the interpretability agents, and the pipeline.
 
-{% if page.horizontal %}
+## Cardiac video analysis, 140× faster
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+A cardiac video model ran as a pipeline that kept clinicians waiting minutes for a result. I rebuilt the model's inference as a TensorRT-optimised 3D CNN-Transformer in FP16, deployed on a T4. Inference ran about 140× faster than the legacy model, with accuracy essentially unchanged after the FP16 conversion.
+
+**My part:** the inference path and deployment. The clinical decision support platform around it ran on multimodal PyTorch models behind Flask APIs, which I also built.

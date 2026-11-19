@@ -9,6 +9,10 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --query @*[other!=true]* %}
+
+<h2 class="bibliography">Other</h2>
+
+{% bibliography --group_by none --query @*[other=true]* %}
 
 </div>

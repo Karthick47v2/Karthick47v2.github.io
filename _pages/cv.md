@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: CV
+title: resume
 nav: true
 nav_order: 5
 description:
