@@ -3,13 +3,14 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
+title_suffix: ML Engineer, Healthcare AI # appended to the homepage <title> only
 first_name: Karthick
 middle_name: T.
 last_name: Sharma
 contact_note: >
-  Feel free to reach out via email.
+  Feel free to reach out via email. I also take on a few <a href="/services/">freelance projects</a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  ML Research Engineer | Healthcare AI Researcher | MPhil Student @ QUT
+  ML Engineer | Healthcare AI | Building Clinical Decision Support Systems
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -53,7 +54,7 @@ external_services:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: false
 socials_in_search: true
 posts_in_search: true
@@ -67,9 +68,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+og_image: https://karthick47v2.github.io/assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -188,9 +189,15 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
+  - AGENTS.md
+  - ANALYTICS.md
+  - CLAUDE.md
+  - MY_INFO.md
+  - QUICKSTART.md
+  - SEO.md
+  - TROUBLESHOOTING.md
   - readme_preview/
   - vendor
 keep_files:
